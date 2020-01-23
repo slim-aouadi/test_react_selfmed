@@ -1,11 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Requirements
+
+For building and running the application you need:
+- run the commande `npm install` to download all required dependencies for the project .
+
 
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `npm install`
-Downloads all the required dependencies for the app. 
 
 ### `npm start`
 
